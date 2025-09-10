@@ -12,3 +12,5 @@ Currently implemented aspects:
    3. Secant
    4. Bisection
    5. Hybrid (Custom Definition)
+
+See the project on PyPI [here](https://pypi.org/project/astrocore/#description)
