@@ -6,3 +6,4 @@
 
 # PyCache
 */__pycache__/
+*.pyc
