@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setuptools.setup(
     name='astrocore',
-    version='1.0.0',
+    version='1.0.1',
     author='Neil Ghugare',
     description='Generalized core numerical algorithms originally intended for astrophysical purposes.',
     long_description=long_description,

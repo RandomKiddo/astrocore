@@ -12,5 +12,7 @@ Currently implemented aspects:
    3. Secant
    4. Bisection
    5. Hybrid (Custom Definition)
+2. Linear Algebra
+   1. LU Decomposition w/ Doolittle's Method
 
-See the project on PyPI [here](https://pypi.org/project/astrocore/#description)
+See the project on PyPI [here](https://pypi.org/project/astrocore/#description).
